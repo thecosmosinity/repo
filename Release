@@ -1,8 +1,12 @@
 Origin: midnn1ght
 Label: midnn1ght
 Suite: stable
-Version: 1.0
+Version: 6.9
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: midnn1ght's cydia repo :)
+SHA256:
+ AFDBF2812853344F6B220486791A6F870ABA0CE131546873ED2CAD88AE4CD3BC 5645 Packages
+ ECFA38977A554F7679A8B15F4FA0F67D0E793D6F7A26FC6DFEDC6357091BA1E1 2345 Packages.bz2
+ 
